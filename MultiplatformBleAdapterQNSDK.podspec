@@ -24,6 +24,6 @@ Pod::Spec.new do |spec|
 
   spec.requires_arc = true
 
-  spec.dependency = "QNSDK"
+  spec.dependency 'QNSDK'
 
 end
