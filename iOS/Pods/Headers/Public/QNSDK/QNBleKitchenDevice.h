@@ -1,0 +1,1 @@
+../../../QNSDK/QNSDK/SDK/QNBleKitchenDevice.h
