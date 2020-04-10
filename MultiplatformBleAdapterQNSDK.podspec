@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "MultiplatformBleAdapterQNSDK"
-  spec.version      = "0.1.6"
+  spec.version      = "0.1.7"
   spec.summary      = "An adapter for RxBluetoothKit that exposes consist API to crossplatform libraries"
 
   spec.description  = <<-DESC
@@ -23,7 +23,5 @@ Pod::Spec.new do |spec|
   spec.frameworks  = 'CoreBluetooth'
 
   spec.requires_arc = true
-
-  spec.dependency 'QNSDK'
 
 end
