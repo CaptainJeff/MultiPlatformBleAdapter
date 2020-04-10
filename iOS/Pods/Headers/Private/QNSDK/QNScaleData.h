@@ -1,1 +1,0 @@
-../../../QNSDK/QNSDK/SDK/QNScaleData.h
